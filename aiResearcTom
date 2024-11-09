@@ -1,0 +1,42 @@
+#statistics 
+<p>statistics from 2021 showed that 25% of all industries worldwide use AI for service-related needs. The percentage also rises in specific industries.</p>
+
+<p>AI is playing a significant role in enhancing customer experiences across touchpoints. According to the Forbes Advisor survey, 73% of businesses use or plan to use AI-powered chatbots for instant messaging. Moreover, 61% of companies use AI to optimize emails, while 55% deploy AI for personalized services, such as product recommendations.</p>
+
+<p>AI is allowing companies to become more nimble and productive. According to the Forbes Advisor survey, AI is used or planned for use in various aspects of business management. A significant number of businesses (53%) apply AI to improve production processes, while 51% adopt AI for process automation and 52% utilize it for search engine optimization tasks such as keyword research.</p>
+
+<p>Companies are also leveraging AI for data aggregation (40%), idea generation (38%) and minimizing safety risks (38%). In addition, AI is being used to streamline internal communications, plans, presentations and reports (46%). Businesses employ AI for writing code (31%) and website copy (29%) as well.</p>
+
+
+#How AI works (basics)
+<p>1. Learn from data- I systems learn and improve by analyzing large amounts of data, identifying patterns, and making predictions. </p>
+<p>2. Use algorithms- AI uses algorithms, which are sets of rules that guide its analysis and decision-making. </p>
+<p>3. Improve accuracy- AI systems learn from their errors to increase their accuracy.</p>
+<p>4. Adapt- AI systems continuously learn and adapt to become more adept at performing specific tasks.</p>
+
+##AI subsets
+<p>Machine Learning (ML): The ML subset focuses on the development of algorithms and statistical models that enable computer systems to perform tasks without explicit programming. The primary goal of machine learning is to allow machines to learn patterns and make decisions based on data</p>
+
+<P>Neural Network(s): This subset focuses on AI models that are inspired by the structure of the human brain. These networks consist of layers of interconnected nodes, each layer contributing to the model’s ability to understand increasingly complex features in the data. Deep learning is also a class of neural networks with multiple layers. Deep learning has been particularly successful in tasks like image recognition, natural language processing, and playing strategic games.</p>
+
+<p>Natural Language Processing (NLP): This subset focuses on enabling machines to understand, interpret, and generate human language. This subset is crucial for applications like chatbots, language translation, sentiment analysis, and voice recognition.</p>
+
+
+#How Mariot can use AI to enhance their business
+<p>Operational Efficiency and Service Optimization- 
+Hotels are increasingly using AI to personalize the guest experience, from check-in to check-out. Hilton’s Connie, powered by IBM Watson’s AI, acts as a concierge, assisting guests with information about hotel amenities, dining recommendations, and local attractions. Similarly, The Cosmopolitan in Las Vegas employs an AI chatbot named Rose, which guests can text for anything from restaurant reservations to quick tips about the city.</p>
+
+<p>AI is also enhancing in-room experiences. Marriott International has experimented with AI-powered assistants in rooms that allow guests to control room settings, including lighting, temperature, and entertainment systems, through voice commands. This not only adds convenience but also provides a tailored experience to each guest based on their preferences.</p>
+
+<p>AI is significantly improving operational efficiency in hotels. For instance, AI-driven tools are used for inventory management as well as forecasting and managing stock levels for items like linens and toiletries. This ensures that the hotel always meets guest needs without overstocking, leading to cost savings. In terms of service, AI is employed in managing housekeeping schedules and workflow. By analyzing guest check-in and check-out data, AI algorithms can optimize housekeeping routes and schedules, ensuring rooms are cleaned and prepared with maximum efficiency.</p>
+
+
+
+https://indatalabs.com/blog/ai-in-service-industry
+https://www.forbes.com/advisor/business/software/ai-in-business/
+https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/
+https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/
+#
+
+
+
